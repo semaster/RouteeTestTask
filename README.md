@@ -1,15 +1,5 @@
 In order to run it on the server side PHP require> = 7.2
 
-The directory/file structure is as follows:
-
-/app
-    /autoload
-       /classes
-       autoload.php
-/config
-    settings.php
-index.php
-
 Single entry point is the index.php file located in the root directory.
 
 In this example, I have implemented the most simple version of the autoloaderfor classes to demonstrate how that feature works.
